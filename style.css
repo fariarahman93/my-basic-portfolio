@@ -1,0 +1,7 @@
+.nav-head{
+    display: flex;
+    gap: 50px;
+}
+.about{
+    font-size: large;
+}
